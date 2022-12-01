@@ -9,6 +9,6 @@
 
 <h3>Android</h3>
 
-<h4>First download the <a href="https://dl.secplus.xyz/document/Android/v2rayNG.apk" >application and then run it</h4><h4>And proceed according to the video</h4>
+<h4>First download the <a href="https://dl.secplus.xyz/document/Android/v2rayNG.apk" >application</a> and then run it</h4><h4>And proceed according to the video</h4>
   
 <h3><a href="https://dl.secplus.xyz/video/v2rayNG%20Android.mp4" >Video</a></h3>
